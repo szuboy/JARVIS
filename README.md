@@ -1,7 +1,7 @@
 # JARVIS
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/szuboy/JARVIS.svg?style=social)](https://github.com/PyQt5/PyQt)
+[![GitHub stars](https://img.shields.io/github/stars/szuboy/JARVIS.svg?style=social)](https://github.com/szuboy/JARVIS)
 
 **JARVIS** 专门针对深圳大学网络时常断网情况而设计，是一个只会耍点小聪明的系统。当然啦，如果您觉得这个小东西对您有帮助，别忘了帮忙点一颗:star:小星星:star:
 
