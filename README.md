@@ -10,8 +10,9 @@
 
 抱歉，目前仅仅制作windows平台的安装程序（其他平台正在马不停蹄地制作中），安装方式如下：
 
-- 
- 
+- 最新版安装包，[点击下载](https://github.com/szuboy/JARVIS/releases/download/v1.0/JARVIS_installer.exe)
+- 不同版本选择，[点击查看](https://github.com/szuboy/JARVIS/releases)
+
 
 ## 使用指南
 
